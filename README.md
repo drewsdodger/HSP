@@ -2,6 +2,7 @@
  Human Simulation Project
 
 # How to run
+ This will cover the requirements and steps to run on the majority of operating systems, note that only Windows is gaurenteed to have support.
 # Requirements
  A copy of Python3 is highly recommended, but python2 could work.
  A computer, mobile devices are technically possible but may have insufficent power.
@@ -37,4 +38,6 @@
  This is under the GNU General Public License, to know what you're allowed to do, please click the link at the right labeled "GPL-3.0 license" 
 
 #F[X]ck you, Ryan.
+ The frames being made next.
 #W Roc
+ GOAT
